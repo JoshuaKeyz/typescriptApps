@@ -1,0 +1,23 @@
+{
+  "name": "typescriptapps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^3.3.3333"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaKeyz/typescriptApps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshuaKeyz/typescriptApps/issues"
+  },
+  "homepage": "https://github.com/JoshuaKeyz/typescriptApps#readme"
+}
